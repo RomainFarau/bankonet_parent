@@ -1,1 +1,1 @@
-delete * from Employe;
+delete * from Personne;
