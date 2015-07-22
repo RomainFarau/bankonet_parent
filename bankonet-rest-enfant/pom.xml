@@ -9,7 +9,7 @@
 		<groupId>fr.dta.formation</groupId>
 		<artifactId>bankonet-parent</artifactId>
 		<version>1.0</version>
-	</par
+	</paren
  
 	<build>
 		<finalName>banko-client</finalName>
