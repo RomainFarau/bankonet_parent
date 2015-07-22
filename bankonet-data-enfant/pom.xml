@@ -15,7 +15,7 @@
   		</activation>
   		<properties>
   			<driver.propertie>com.mysql.jdbc.Driver</driver.propertie>
-			<url.propertie>jdbc:mysql:///banque2</url.propertie>
+			<url.propertie>jdbc:mysql:///banque</url.propertie>
 			<username.propertie>root</username.propertie>
 			<password.propertie></password.propertie>
   		</properties>
@@ -24,7 +24,7 @@
   		<id>integration</id>
   		<properties>
   			<properties.driver>com.mysql.jdbc.Driver</properties.driver>
-			<properties.url>jdbc:mysql:///banque_prod</properties.url>
+			<properties.url>jdbc:mysql:///banque</properties.url>
 			<properties.username>root</properties.username>
 			<properties.password></properties.password>
   		</properties>
